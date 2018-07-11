@@ -1,6 +1,6 @@
 # jar-deployer
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)
 
 Simple bash script used to deploy JAR packaged applications with restart capability
 
